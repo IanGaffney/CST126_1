@@ -1,6 +1,6 @@
 # CST126_01 - Plastic spoons and strings
 
-**Class ID:** Aunt Beast
+**Class ID:** Cottonee
 
 **Assignement ID:** CST126_01
 
